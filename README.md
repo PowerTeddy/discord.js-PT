@@ -24,9 +24,7 @@ Variable and member names are CamelCase, starting with lowercase.
 Members and methods of classes that begin with '_' are considered "private": should not be read or written outside the class.
 
 ### Json file
-<div>
-	File Name: botconfig.json
-</div>
+<div>File Name: <b>botconfig.json</b></div>
 
 Make sure you make a json file like this:
 ```json
