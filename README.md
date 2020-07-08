@@ -18,4 +18,4 @@ Make sure you make a json file like this:
 <a href="https://www.youtube.com/channel/UCVtwwZVLx2-CE7ylPk6M2eQ" target="_blank"><img src="https://lh3.googleusercontent.com/utRAGkGHdOo1rKXF_UEeOZs4Pd1vG-FemIm-zeCnKscS121qn__3k_DiOvGQyuGxQ4Ersw=s85" alt="Youtube Channel" width="88" height="88"/></a>
 
 ## License
-Available under the Apache 2.0 license. See [LICENSE](LICENSE) for details.
+Available under the MIT license. See [LICENSE](LICENSE) for details.
