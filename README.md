@@ -27,6 +27,7 @@ Members and methods of classes that begin with '_' are considered "private": sho
 <div>
 	File Name: botconfig.json
 </div>
+
 Make sure you make a json file like this:
 ```json
 {
