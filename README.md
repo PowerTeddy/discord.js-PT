@@ -3,8 +3,8 @@
 
 You can copy some code you like but do not copy the whole bot Please.
 
-##Json file
-#####botconfig.json
+## Json file
+##### botconfig.json
 Make sure you make a json file like this
 ```json
 {
