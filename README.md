@@ -6,10 +6,40 @@
 
 <div>&nbsp;</div>
 
-You can copy some code you like but do not copy the whole bot Please.
+## Overview
+This is a bot I made to help out in the server so I hope to use it many times.  You could also invite it [by Clicking here](https://www.example.com)
 
-### Json file
-##### File Name: botconfig.json
+Make sure you don't copy the whole bot because you won't learn if you do. We trust you to not do it even if you can.
+
+We will keep the bot up to date as the Discord look & feel changes (e.g. automatic support for when Discord has a completely different ui, when that happens).
+
+## Please contribute!
+We will work hard to keep the bot up to date, bug-free, etc.
+
+That said, we have a small team and many competing priorities, so your efforts to improve this library are welcome and invited.  Feel free to fork the repository and make fixes and improvements as you see fit.  We will be happy to merge in any updates that fit within our vision of the bot.  More information about contributing can be found [here](https://github.com/PowerTeddy/PT-Code-Help/blob/master/CONTRIBUTING.md).
+
+## Where to Find the Code
+Click on the branch-selector button located here:
+
+![Branch Selector](https://i.imgur.com/zbAfgVd.jpg)
+
+<div>
+    Select <b>PT-Bot-Code</b>:
+</div>
+
+![Branch Selector Depth 1](https://imgur.com/ADRRwqi.jpg)
+
+Once you've selected a branch, you can browse through the files available:
+
+![Source Code](https://imgur.com/ZRHYd92.jpg)
+
+Don't know how to change branches? [Click Here](https://docs.github.com/en/github/administering-a-repository/viewing-branches-in-your-repository)
+
+Don't Forget the [Json File](#json-file) you also have to create.
+
+## Json file
+<div>File Name: <b>botconfig.json</b></div>
+
 Make sure you make a json file like this:
 ```json
 {
@@ -19,8 +49,24 @@ Make sure you make a json file like this:
     "botOwner": "bot.guilds.resolve(Guild You're In).members.resolve(Your User Id)"
 }
 ```
-### Youtube Channel
-<a href="https://www.youtube.com/channel/UCVtwwZVLx2-CE7ylPk6M2eQ" target="_blank"><img src="https://lh3.googleusercontent.com/utRAGkGHdOo1rKXF_UEeOZs4Pd1vG-FemIm-zeCnKscS121qn__3k_DiOvGQyuGxQ4Ersw=s85" alt="Youtube Channel" width="88" height="88"/></a>
+## Power Teddy
+- [Discord Server](https://discordapp.com/invite/YHw3JpZ)
+- [GitHub](https://github.com/PowerTeddy)
+- [Twitter](https://twitter.com/PowerTeddy1)
+- [Twitch](https://twitch.tv/PowerTeddy)
+- [Website](http://powerteddy.epizy.com)
+
+## Resources
+- [Discord.js documentation](https://discord.js.org)
+- [Discord.js Guide](https://discordjs.guide)
+- [Modernised Javascript Tutorials](https://www.javascript.info/)
+- [CodeCademy online course](https://www.codecademy.com/learn/javascript)
+- [Eloquent Javascript, free book](http://eloquentjavascript.net/)
+- [MDN's JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+- [Some Node](https://nodeschool.io/) [More Node](https://www.codeschool.com/courses/real-time-web-with-node-js)
+- [Javascript reference/docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+---
 
 ## License
 Available under the MIT license. See [LICENSE](LICENSE) for details.
