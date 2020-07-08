@@ -41,16 +41,16 @@ Don't Forget the [Json File](#json-file) you also have to create.
 
 You need
 ### Node.js
-<a href = https://nodejs.org/en><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png alt = "Node.js" width = 90 length = 180></a>
+<a href = https://nodejs.org/en><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png alt = "Node.js" width = 180 length = 360></a>
 
 Go to [Nodejs.org](https://nodejs.org/en)
 
 <div>Then download the <b>Recommended For Most Users</b> Version</div>
 
-<a href = https://imgur.com/ebb06oA.png><img src = https://imgur.com/ebb06oA.png alt = "npm init" width = 720 length = 1440></a>
+<a href = https://imgur.com/ebb06oA.png><img src = https://imgur.com/ebb06oA.png alt = "npm init" width = 700 length = 1400></a>
 
 ### Visual Studio Code
-<a href = https://code.visualstudio.com><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png alt = "Visual Studio Code" width = 90 length = 90></a>
+<a href = https://code.visualstudio.com><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png alt = "Visual Studio Code" width = 170 length = 170></a>
 
 You'll need an Editor like [Visual Studio Code](https://code.visualstudio.com)
 
