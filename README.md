@@ -8,7 +8,7 @@ You can copy some code you like but do not copy the whole bot Please.
 Make sure you make a json file like this
 ```json
 {
-    "token": "NjE3NzEzMTMzMzQ3Mjc0ODAx.XwSZ_Q.Awcpge01sccWVPwWyASJIqWFS0c",
+    "token": "Your Bot Token",
     "prefix": "!",
     "embedfooter": "Test Bot | Username#0000",
     "botOwner": "bot.guilds.resolve(Guild You're In).members.resolve(Your User Id)"
