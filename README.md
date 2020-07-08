@@ -40,8 +40,36 @@ Don't Forget the [Json File](#json-file) you also have to create.
 ## Requirements
 
 You need
-- node.js
+### node.js
 <a href = https://nodejs.org/en><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png alt = "Node.js" width = 90 length = 180></a>
+
+Go to [Nodejs.org](https://nodejs.org/en)
+
+<div>Then download the <b>Recommended For Most Users</b> Version</div>
+
+![Recommended](https://imgur.com/ebb06oA.png)
+
+### Visual Studio Code
+<a href = https://code.visualstudio.com><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png alt = "Visual Studio Code" width = 90 length = 90></a>
+
+You'll need an Editor like [Visual Studio Code](https://code.visualstudio.com)
+
+<div>So download <b>Visual Studio Code</b></div>
+
+
+### discord.js
+
+<div>Once finished downloading everything, open the <b>Command Prompt</b> go to your bot folder directory then type <b>npm init</b></div>
+
+![npm init](https://imgur.com/S2Mxo3o.png)
+
+<div>After that, continuously press <b>enter</b></div>
+
+![npm init](https://imgur.com/R4Mo9Z7.png)
+
+<div>To Download <a href = https://discord.js.org/#/)>discord.js</a>, type <b>npm install discord.js</b></div>
+
+![npm init](https://i.imgur.com/8hlE5ZD.png)
 
 ## Json file
 <div>File Name: <b>botconfig.json</b></div>
