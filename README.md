@@ -21,7 +21,7 @@ That said, we have a small team and many competing priorities, so your efforts t
 ## Where to Find the Code
 Click on the branch-selector button located here:
 
-![Branch Selector](https://imgur.com/a/S41GOXI.jpg)
+![Branch Selector](https://i.imgur.com/zbAfgVd.jpg)
 
 <div>
     Select <b>PT-Bot-Code</b>:
@@ -71,6 +71,8 @@ Make sure you make a json file like this:
 - [MDN's JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 - [Some Node](https://nodeschool.io/) [More Node](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Javascript reference/docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+---
 
 ## License
 Available under the MIT license. See [LICENSE](LICENSE) for details.
