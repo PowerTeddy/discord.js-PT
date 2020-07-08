@@ -21,17 +21,17 @@ That said, we have a small team and many competing priorities, so your efforts t
 ## Where to Find the Code
 Click on the branch-selector button located here:
 
-![Branch Selector](https://lh3.googleusercontent.com/7DBewzFzTR74FNYTICz1hT8mPCBTjVUBx6INB7hByFjeYJscVbCVp9DcHcw5GseMCoub4A=s170)
+![Branch Selector](https://imgur.com/a/S41GOXI)
 
 <div>
     Select <b>PT-Bot-Code</b>:
 </div>
 
-![Branch Selector Depth 1](https://lh3.googleusercontent.com/aV-GgaUpeGQwoKFmXROG-4E9hOVaefHznWhauLntPJNLtPttBwPmt7uN5c6F88a_UHwOPw=s118)
+![Branch Selector Depth 1](https://imgur.com/ADRRwqi)
 
 Once you've selected a branch, you can browse through the files available:
 
-![Source Code](https://lh3.googleusercontent.com/_6IjKi2QNByF4ISbILFwRKfDrKdWlQRpr2SKd-FqkgdhZVmWRl4ae0-V9NvAFCfeegowXg=s85)
+![Source Code](https://imgur.com/ZRHYd92)
 
 Don't know how to change branches? [Click Here](https://docs.github.com/en/github/administering-a-repository/viewing-branches-in-your-repository)
 
@@ -39,7 +39,8 @@ Don't Forget the [Json File](#json-file) you also have to create.
 
 ## Requirements
 
--You need node.js
+You need
+- node.js
 <a href = https://nodejs.org/en><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png alt = "Node.js" width = 90 length = 180></a>
 
 ## Json file
