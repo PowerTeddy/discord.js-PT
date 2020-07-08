@@ -6,7 +6,22 @@
 
 <div>&nbsp;</div>
 
-You can copy some code you like but do not copy the whole bot Please.
+## Overview
+This is a bot I made to help out in the server so I hope to use it many times.  You could also invite it [by Clicking here](https://www.example.com)
+
+Make sure you don't copy the whole bot because you won't learn if you do. I trust you to not do it even if you can.
+
+We will keep the bot up to date as the Discord look & feel changes (e.g. automatic support for when Discord has a completely different ui, when that happens).
+
+## Please contribute!
+We will work hard to keep the bot up to date, bug-free, etc.
+
+That said, we have a small team and many competing priorities, so your efforts to improve this library are welcome and invited.  Feel free to fork the repository and make fixes and improvements as you see fit.  We will be happy to merge in any updates that fit within our vision of the bot.  More information about contributing can be found [here](https://github.com/PowerTeddy/PT-Code-Help/blob/master/CONTRIBUTING.md).
+
+## Where to Find the Code
+Class and function names are CamelCase, starting with caps.
+Variable and member names are CamelCase, starting with lowercase.
+Members and methods of classes that begin with '_' are considered "private": should not be read or written outside the class.
 
 ### Json file
 ##### File Name: botconfig.json
