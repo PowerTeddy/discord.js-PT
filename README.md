@@ -5,7 +5,7 @@ You can copy some code you like but do not copy the whole bot Please.
 
 ## Json file
 ##### botconfig.json
-Make sure you make a json file like this
+Make sure you make a json file like this:
 ```json
 {
     "token": "Your Bot Token",
@@ -15,4 +15,4 @@ Make sure you make a json file like this
 }
 ```
 
-<a href="https://www.youtube.com/channel/UCVtwwZVLx2-CE7ylPk6M2eQ" target="_blank"><img src="https://lh3.googleusercontent.com/utRAGkGHdOo1rKXF_UEeOZs4Pd1vG-FemIm-zeCnKscS121qn__3k_DiOvGQyuGxQ4Ersw=s85" alt="Youtube Channel" width="90" height="90"/></a>
+<a href="https://www.youtube.com/channel/UCVtwwZVLx2-CE7ylPk6M2eQ" style="color:#8e2430" target="_blank">My Youtube Channel<img src="https://lh3.googleusercontent.com/utRAGkGHdOo1rKXF_UEeOZs4Pd1vG-FemIm-zeCnKscS121qn__3k_DiOvGQyuGxQ4Ersw=s85" alt="Youtube Channel" width="90" height="90"/></a>
