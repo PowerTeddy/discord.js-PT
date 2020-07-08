@@ -9,7 +9,7 @@
 ## Overview
 This is a bot I made to help out in the server so I hope to use it many times.  You could also invite it [by Clicking here](https://www.example.com)
 
-Make sure you don't copy the whole bot because you won't learn if you do. I trust you to not do it even if you can.
+Make sure you don't copy the whole bot because you won't learn if you do. We trust you to not do it even if you can.
 
 We will keep the bot up to date as the Discord look & feel changes (e.g. automatic support for when Discord has a completely different ui, when that happens).
 
@@ -24,7 +24,9 @@ Variable and member names are CamelCase, starting with lowercase.
 Members and methods of classes that begin with '_' are considered "private": should not be read or written outside the class.
 
 ### Json file
-##### File Name: botconfig.json
+<div>
+	File Name: botconfig.json
+</div>
 Make sure you make a json file like this:
 ```json
 {
