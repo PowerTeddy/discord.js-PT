@@ -21,17 +21,17 @@ That said, we have a small team and many competing priorities, so your efforts t
 ## Where to Find the Code
 Click on the branch-selector button located here:
 
-![Branch Selector](https://imgur.com/a/S41GOXI)
+![Branch Selector](https://imgur.com/a/S41GOXI.jpg)
 
 <div>
     Select <b>PT-Bot-Code</b>:
 </div>
 
-![Branch Selector Depth 1](https://imgur.com/ADRRwqi)
+![Branch Selector Depth 1](https://imgur.com/ADRRwqi.jpg)
 
 Once you've selected a branch, you can browse through the files available:
 
-![Source Code](https://imgur.com/ZRHYd92)
+![Source Code](https://imgur.com/ZRHYd92.jpg)
 
 Don't know how to change branches? [Click Here](https://docs.github.com/en/github/administering-a-repository/viewing-branches-in-your-repository)
 
