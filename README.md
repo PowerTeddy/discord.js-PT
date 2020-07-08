@@ -61,15 +61,18 @@ You'll need an Editor like [Visual Studio Code](https://code.visualstudio.com)
 
 <div>Once finished downloading everything, open the <b>Command Prompt</b> go to your bot folder directory then type <b>npm init</b></div>
 
-![npm init](https://imgur.com/S2Mxo3o.png)
+
+<a href = https://imgur.com/S2Mxo3o.png><img src = https://imgur.com/S2Mxo3o.png alt = "npm init" width = 90 length = 180></a>
 
 <div>After that, continuously press <b>enter</b></div>
 
-![npm init](https://imgur.com/R4Mo9Z7.png)
+
+<a href = https://imgur.com/R4Mo9Z7.png><img src = https://imgur.com/R4Mo9Z7.png alt = "npm init depth" width = 90 length = 180></a>
 
 <div>To Download <a href = https://discord.js.org/#/)>discord.js</a>, type <b>npm install discord.js</b></div>
 
-![npm init](https://i.imgur.com/8hlE5ZD.png)
+
+<a href = https://imgur.com/8hlE5ZD.png><img src = https://imgur.com/8hlE5ZD.png alt = "npm install discord.js" width = 90 length = 180></a>
 
 ## Json file
 <div>File Name: <b>botconfig.json</b></div>
