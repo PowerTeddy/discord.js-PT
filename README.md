@@ -37,12 +37,12 @@ Don't know how to change branches? [Click Here](https://docs.github.com/en/githu
 
 Don't Forget the [Json File](#json-file) you also have to create.
 
-##Requirements
+## Requirements
 
-You need node.js
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
+-You need node.js
+<a href = https://nodejs.org/en><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png alt = "Node.js" width = 90 length = 180></a>
 
-### Json file
+## Json file
 <div>File Name: <b>botconfig.json</b></div>
 
 Make sure you make a json file like this:
