@@ -47,7 +47,7 @@ Go to [Nodejs.org](https://nodejs.org/en)
 
 <div>Then download the <b>Recommended For Most Users</b> Version</div>
 
-<a href = https://imgur.com/ebb06oA.png><img src = https://imgur.com/ebb06oA.png alt = "npm init" width = 180 length = 360></a>
+<a href = https://imgur.com/ebb06oA.png><img src = https://imgur.com/ebb06oA.png alt = "npm init" width = 720 length = 1440></a>
 
 ### Visual Studio Code
 <a href = https://code.visualstudio.com><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png alt = "Visual Studio Code" width = 90 length = 90></a>
@@ -61,15 +61,15 @@ You'll need an Editor like [Visual Studio Code](https://code.visualstudio.com)
 
 <div>Once finished downloading everything, open the <b>Command Prompt</b> go to your bot folder directory then type <b>npm init</b></div>
 
-<a href = https://imgur.com/S2Mxo3o.png><img src = https://imgur.com/S2Mxo3o.png alt = "npm init" width = 180 length = 360></a>
+<a href = https://imgur.com/S2Mxo3o.png><img src = https://imgur.com/S2Mxo3o.png alt = "npm init" width = 720 length = 1440></a>
 
 <div>After that, continuously press <b>enter</b></div>
 
-<a href = https://imgur.com/R4Mo9Z7.png><img src = https://imgur.com/R4Mo9Z7.png alt = "npm init depth" width = 180 length = 360></a>
+<a href = https://imgur.com/R4Mo9Z7.png><img src = https://imgur.com/R4Mo9Z7.png alt = "npm init depth" width = 720 length = 1440></a>
 
 <div>To Download <a href = https://discord.js.org/#/)>discord.js</a>, type <b>npm install discord.js</b></div>
 
-<a href = https://imgur.com/8hlE5ZD.png><img src = https://imgur.com/8hlE5ZD.png alt = "npm install discord.js" width = 180 length = 360></a>
+<a href = https://imgur.com/8hlE5ZD.png><img src = https://imgur.com/8hlE5ZD.png alt = "npm install discord.js" width = 720 length = 1440></a>
 
 ## Json file
 <div>File Name: <b>botconfig.json</b></div>
