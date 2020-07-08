@@ -1,5 +1,8 @@
-# PT Bot Code
-###### discord.js v11.6.1
+<h1 align = "center">PT Bot Code</h1>
+
+<div align = "center">
+	discord.js v11.6.1
+</div>
 
 You can copy some code you like but do not copy the whole bot Please.
 
