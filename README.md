@@ -47,7 +47,7 @@ Go to [Nodejs.org](https://nodejs.org/en)
 
 <div>Then download the <b>Recommended For Most Users</b> Version</div>
 
-<a href = nodejs.org/en><img src = https://imgur.com/ebb06oA.png alt = "recommended" width = 700 length = 1400></a>
+<a href = https://nodejs.org/en><img src = https://imgur.com/ebb06oA.png alt = "recommended" width = 700 length = 1400></a>
 
 ### Visual Studio Code
 <a href = https://code.visualstudio.com><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png alt = "Visual Studio Code" width = 170 length = 170></a>
