@@ -1,0 +1,6 @@
+node_modules
+botconfig.json
+index.js.example
+json.sqlite
+db
+models

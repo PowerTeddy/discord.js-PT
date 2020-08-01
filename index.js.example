@@ -1,15 +1,65 @@
-const { Client, Collection } = require("discord.js");
-const { token } = require("./botconfig.json");
-const bot = new Client();
+const Discord = require("discord.js");
+const botconfig = require("./botconfig.json");
+const colours = require("./colours.json");
+const superagent = require("superagent")
+const db = require('quick.db')
 
-
-
-["aliases", "commands"].forEach(x => bot[x] = new Collection());
-["console", "command", "event"].forEach(x => require(`./handlers/${x}`)(bot));
-
+const bot = new Discord.Client({disableEveryone: true});
 
 require("./util/eventHandler")(bot)
 
+const fs = require("fs");
+const { url } = require("inspector");
+bot.commands = new Discord.Collection();
+bot.aliases = new Discord.Collection();
+
+
+fs.readdir(`./commands/${dirs}`, (err, files) => {
+
+if(err) console.log(err)
+
+    let jsfile = files.filter(f => f.split(".").pop() === "js") 
+    if(jsfile.length <= 0) {
+        return console.log("[LOGS] Couldn't Find Commands!");
+    }
+
+    jsfile.forEach((f, i) => {
+        let pull = require(`./commands/${dirs}/${f}`);
+        bot.commands.set(pull.config.name, pull);
+        if(!pull.config.aliases) return;
+
+        pull.config.aliases.forEach(alias => {
+            bot.aliases.set(alias, pull.config.name)
+        });
+    });
+});
+
+
+
+bot.on("message", async message => {
+    if(message.author.bot || message.channel.type === "dm") return;
+
+    let pref = db.get(`prefix.${message.guild.id}`);
+    let prefix;
+  
+    if (!pref) {
+        prefix = "!";
+    } else {
+        prefix = pref;
+    }
+
+    let messageArray = message.content.split(" ")
+    let cmd = messageArray[0].toLowerCase();
+    let args = messageArray.slice(1);
+
+
+    if(!message.content.startsWith(prefix)) return;
+    let commandfile = bot.commands.get(cmd.slice(prefix.length)) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length)))
+    if(commandfile) commandfile.run(bot,message,args,prefix)
+
+})
+
+//Display message when joining a server
 
 bot.on("guildCreate", guild => {
     var found = false;
@@ -51,4 +101,11 @@ bot.on("guildCreate", guild => {
     })
 });
 
-bot.login(token);
+//Server Boost Notification
+
+
+
+//smt smt
+
+
+bot.login(botconfig.token);
