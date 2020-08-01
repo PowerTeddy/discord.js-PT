@@ -1,7 +1,7 @@
 <h1 align = "center">PT Bot Code</h1>
 
 <div align = "center">
-	discord.js v11.6.1
+	discord.js v12.2.0
 </div>
 
 <div>&nbsp;</div>
@@ -80,7 +80,7 @@ Make sure you make a json file like this:
     "token": "Your Bot Token",
     "prefix": "!",
     "embedfooter": "Test Bot | Username#0000",
-    "botOwner": "bot.guilds.resolve(Guild You're In).members.resolve(Your User Id)"
+    "botinvitelink": "https://discord.com/oauth2/authorize?client_id=clientId&scope=bot&permissions=8"
 }
 ```
 ## Power Teddy
