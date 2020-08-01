@@ -46,7 +46,8 @@ Make sure you make a json file like this:
 {
     "token": "Your Bot Token",
     "prefix": "!",
-    "embedfooter": "Test Bot | Username#0000"
+    "embedfooter": "Test Bot | Username#0000",
+    "botinvitelink": "https://discord.com/oauth2/authorize?client_id=clientId&scope=bot&permissions=8"
 }
 ```
 ## Power Teddy
